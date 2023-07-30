@@ -4,7 +4,7 @@ const int N = 10;
 int n , target;
 int A[N];
 int sum;
-vector <int> path;
+vector<int>path;
 void solve(int i)
 {
     if(i==n)
